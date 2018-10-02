@@ -7,7 +7,7 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="350" Width="525">
     <Grid>
-        <ListView HorizontalAlignment="Left" Height="100" Margin="107,107,0,0" VerticalAlignment="Top" Width="100">
+        <ListView HorizontalAlignment="Left" Height="100" Margin="107,107,0,0" VerticalAlignment="Top" Width="100" SelectionChanged="ListView_SelectionChanged">
             <ListView.View>
                 <GridView>
                     <GridViewColumn/>
