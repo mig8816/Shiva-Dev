@@ -14,7 +14,8 @@
                 </GridView>
             </ListView.View>
         </ListView>
-              
+        <Rectangle Fill="#FFF4F4F5" HorizontalAlignment="Left" Height="100" Margin="345,122,0,0" Stroke="Black" VerticalAlignment="Top" Width="100"/>
+
     </Grid>
     
 </Window>
